@@ -1,0 +1,969 @@
+.btn-primary {
+	color: #fff;
+	background-color: rgb(120, 214, 75);
+	border-color: rgb(120, 214, 75)
+}
+.btn-primary:hover {
+	color: #fff;
+	background-color: rgb(120, 214, 75);
+	border-color: rgb(120, 214, 75)
+}
+.btn-primary.focus,
+.btn-primary:focus {
+	box-shadow: 0 0 0 2px  rgb(120, 214, 75)
+}
+.btn-primary.disabled,
+.btn-primary:disabled {
+	color: #fff;
+	background-color: rgb(120, 214, 75);
+	border-color: rgb(120, 214, 75)
+}
+.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary:not(:disabled):not(.disabled):active,
+.show>.btn-primary.dropdown-toggle {
+	color: #fff;
+	background-color: rgb(120, 214, 75);
+	border-color: rgb(120, 214, 75)
+}
+.btn-primary:not(:disabled):not(.disabled).active:focus,
+.btn-primary:not(:disabled):not(.disabled):active:focus,
+.show>.btn-primary.dropdown-toggle:focus {
+	box-shadow: 0 0 0 2px rgba(233, 30, 99, .1)
+}
+.btn-outline-primary {
+	color: rgb(120, 214, 75);
+	background-color: transparent;
+	background-image: none;
+	border-color: rgb(120, 214, 75)!important
+}
+.btn-outline-primary:hover {
+	color: #fff;
+	background-color: rgb(120, 214, 75);
+	border-color: rgb(120, 214, 75)!important
+}
+.btn-outline-primary.focus,
+.btn-outline-primary:focus {
+	box-shadow: 0 0 0 2px rgba(5, 117, 230, .1)
+}
+.btn-outline-primary.disabled,
+.btn-outline-primary:disabled {
+	color: rgb(120, 214, 75)ec296b;
+	background-color: transparent
+}
+.btn-outline-primary:not(:disabled):not(.disabled).active,
+.btn-outline-primary:not(:disabled):not(.disabled):active,
+.show>.btn-outline-primary.dropdown-toggle {
+	color: #fff;
+	background-color:rgb(120, 214, 75);
+	border-color: rgb(120, 214, 75)
+}
+.btn-outline-primary:not(:disabled):not(.disabled).active:focus,
+.btn-outline-primary:not(:disabled):not(.disabled):active:focus,
+.show>.btn-outline-primary.dropdown-toggle:focus {
+	box-shadow: 0 0 0 2px rgba(5, 117, 230, .1)
+}
+.btn-link {
+	color: rgb(120, 214, 75)ec296b
+}
+.alert-primary {
+	color: #fcfdff;
+	background-color: rgb(120, 214, 75);
+	border-color: rgb(120, 214, 75)
+}
+.alert-primary hr {
+	border-top-color: #b7cded
+}
+.alert-primary .alert-link {
+	color: #172b46
+}
+.label-primary {
+	background-color: rgb(120, 214, 75)
+}
+.badge-primary {
+	color: #fff;
+	background-color: rgb(120, 214, 75)
+}
+.badge-primary[href]:focus,
+.badge-primary[href]:hover {
+	color: #fff;
+	text-decoration: none;
+	background-color: #35c360
+}
+.bg-gradient-primary {
+	background: linear-gradient(-225deg, rgb(5, 28, 44) 0, rgb(5, 28, 44) 48%, rgb(5, 28, 44) 100%)
+}
+.bg-primary {
+	background-color: rgb(120, 214, 75)!important
+}
+a.bg-primary:focus,
+a.bg-primary:hover,
+button.bg-primary:focus,
+button.bg-primary:hover {
+	background-color: rgb(120, 214, 75)!important
+}
+.border-primary {
+	border-color: rgb(120, 214, 75)!important
+}
+.text-primary {
+	color: rgb(120, 214, 75)!important
+}
+a.text-primary:focus,
+a.text-primary:hover {
+	color: rgb(120, 214, 75)!important
+}
+a.text-dark:focus,
+a.text-dark:hover {
+	color: rgb(120, 214, 75)!important
+}
+.social-box.linkedin i {
+	background: rgb(120, 214, 75)
+}
+.checkbox span:after {
+	background-color: rgb(120, 214, 75)
+}
+.user-card .card-block .activity-leval li.active {
+	background-color: rgb(120, 214, 75)
+}
+#count-down .clock-presenter .digit {
+	background: rgb(120, 214, 75)
+}
+.masthead .masthead-bg {
+	background:linear-gradient(-225deg, rgb(5, 28, 44) 0, rgb(5, 28, 44) 48%, rgb(5, 28, 44) 100%)
+}
+.notifyimg {
+	background: rgb(120, 214, 75)
+}
+.drop-icon-wrap .drop-icon-item:hover {
+	color: rgb(120, 214, 75)
+}
+.dropdown-item:focus,
+.dropdown-item:hover {
+	color: rgb(120, 214, 75)
+}
+.dropdown-item.active,
+.dropdown-item:active {
+	color: rgb(120, 214, 75)
+}
+timeline__item:after {
+	border: 6px solid rgb(120, 214, 75)
+}
+.custom-control-input:checked~.custom-control-label::before {
+	background-color: rgb(120, 214, 75)
+}
+.custom-checkbox .custom-control-input:checked~.custom-control-label::before {
+	background-color: rgb(120, 214, 75)
+}
+.custom-checkbox .custom-control-input:indeterminate~.custom-control-label::before {
+	background-color: rgb(120, 214, 75)
+}
+.custom-radio .custom-control-input:checked~.custom-control-label::before {
+	background-color: rgb(120, 214, 75)
+}
+.custom-select:focus {
+	border-color: rgb(120, 214, 75)
+}
+.custom-file-input:focus~.custom-file-label {
+	border-color: rgb(120, 214, 75)
+}
+.custom-file-input:focus~.custom-file-label::after {
+	border-color: rgb(120, 214, 75)
+}
+.custom-file-label::after {
+	background-color: rgb(120, 214, 75);
+	border-left: 1px solid rgb(120, 214, 75)
+}
+.custom-range::-webkit-slider-thumb {
+	background-color: rgb(120, 214, 75)
+}
+.custom-range::-moz-range-thumb {
+	background-color: rgb(120, 214, 75)
+}
+.custom-range::-ms-thumb {
+	background-color: rgb(120, 214, 75)
+}
+.nav-link.active {
+	background-color: rgb(120, 214, 75)
+}
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+	background-color: rgb(120, 214, 75)
+}
+.page-link:hover {
+	color: rgb(120, 214, 75)
+}
+.page-item.active .page-link {
+	background-color: rgb(120, 214, 75);
+	border-color: rgb(120, 214, 75)
+}
+.range.range-primary input[type=range]::-webkit-slider-thumb {
+	background-color: rgb(120, 214, 75)
+}
+.range.range-primary input[type=range]::-moz-slider-thumb {
+	background-color: rgb(120, 214, 75)
+}
+.range.range-primary output {
+	background-color: rgb(120, 214, 75)
+}
+.range.range-primary input[type=range] {
+	outline-color: rgb(120, 214, 75)
+}
+.nav-tabs .nav-item1 .nav-link:hover:not(.disabled) {
+	background: rgb(120, 214, 75)
+}
+.nav-tabs .nav-item1 .nav-link.active {
+	background: rgb(120, 214, 75)
+}
+.panel.price>.panel-heading {
+	background: rgb(120, 214, 75);
+	color: #fff
+}
+.panel.price>.panel-heading {
+	background: rgb(120, 214, 75)
+}
+.heading-primary {
+	background-color: rgb(120, 214, 75)
+}
+.page-header .breadcrumb-item a {
+	color: #605e7e
+}
+.breadcrumb-item1 a:hover {
+	color: rgb(120, 214, 75)
+}
+.panel-title1 a {
+	color: rgb(120, 214, 75)
+}
+.header {
+	background: linear-gradient(120deg, #0f75ff 60%, rgb(120, 214, 75) 100%)
+}
+.header-bg {
+	background: #eef2f9;
+	background: -webkit-linear-gradient(to right, #eef2f9, rgb(120, 214, 75));
+	background: linear-gradient(to right, #eef2f9, rgb(120, 214, 75))
+}
+.nav-tabs .nav-link:hover:not(.disabled) {
+	color: #fff;
+	background: rgb(120, 214, 75)
+}
+.nav-tabs .nav-link.active {
+	color: #fff;
+	background: rgb(120, 214, 75)
+}
+.navtab-wizard.nav-tabs .nav-link.active,
+.navtab-wizard.nav-tabs .nav-link:hover {
+	color: rgb(120, 214, 75);
+	background: #fff
+}
+.admin-navbar .nav-item.active .nav-link {
+	color: rgb(120, 214, 75)
+}
+.admin-navbar .nav-item.active .nav-link .icon {
+	color: rgb(120, 214, 75)
+}
+.admin-navbar .nav-link:focus,
+.admin-navbar .nav-link:hover {
+	color: rgb(120, 214, 75)
+}
+.admin-navbar .nav-link.active {
+	color: rgb(120, 214, 75)
+}
+.admin-navbar .mega-dropdown .sub-item .section-label {
+	color: rgb(120, 214, 75)
+}
+.admin-navbar .sub-item ul a:active {
+	background-color: rgb(120, 214, 75)
+}
+.admin-navbar .sub-item ul a:focus,
+.admin-navbar .sub-item ul a:hover {
+	color: rgb(120, 214, 75);
+	text-decoration: none;
+	background-color: #f9faff
+}
+.expanel-primary {
+	border: rgb(120, 214, 75)!important
+}
+.expanel-primary>.expanel-heading {
+	color: #fff!important;
+	background-color: rgb(120, 214, 75)!important;
+	border-color: rgb(120, 214, 75)!important
+}
+.error-img .form-control:focus {
+	color: #fff;
+	background-color: rgba(255, 255, 255, .2);
+	border-color: rgb(120, 214, 75)
+}
+.avatar {
+	background: rgb(120, 214, 75) no-repeat center/cover
+}
+.spinner {
+	background: linear-gradient(-225deg, rgb(5, 28, 44) 0, rgb(5, 28, 44) 48%, rgb(5, 28, 44) 100%)!important
+}
+.spinner-lg {
+	background-color: rgb(120, 214, 75)
+}
+.double-bounce1,
+.double-bounce2 {
+	background:linear-gradient(-225deg, rgb(5, 28, 44) 0, rgb(5, 28, 44) 48%, rgb(5, 28, 44) 100%)
+}
+.cube1,
+.cube2 {
+	background:linear-gradient(-225deg, rgb(5, 28, 44) 0, rgb(5, 28, 44) 48%, rgb(5, 28, 44) 100%)
+}
+.lds-heart div {
+	background: rgb(120, 214, 75)
+}
+.lds-heart div:after,
+.lds-heart div:before {
+	background: rgb(120, 214, 75)
+}
+.lds-ring div {
+	border: 6px solid rgb(120, 214, 75);
+	border-color: rgb(120, 214, 75) transparent transparent transparent
+}
+.lds-hourglass:after {
+	border: 26px solid rgb(120, 214, 75);
+	border-color: rgb(120, 214, 75) transparent
+}
+.mediaicon {
+	border: 1px solid rgb(120, 214, 75);
+	background: rgb(120, 214, 75)
+}
+a.chip:hover {
+	background-color: rgb(120, 214, 75)
+}
+.highlight .s {
+	color: rgb(120, 214, 75)
+}
+.selectgroup-input:checked+.selectgroup-button {
+	border-color: rgb(120, 214, 75);
+	z-index: 1;
+	color: rgb(120, 214, 75);
+	background: #f6f7fb
+}
+.selectgroup-input:focus+.selectgroup-button {
+	border-color: rgb(120, 214, 75);
+	z-index: 2;
+	color: rgb(120, 214, 75);
+	box-shadow: 0 0 0 2px rgb(236, 41, 107,.25)
+}
+.custom-switch-input:checked~.custom-switch-indicator {
+	background: rgb(120, 214, 75)
+}
+.custom-switch-input:focus~.custom-switch-indicator {
+	box-shadow: 0 0 0 2px rgb(236, 41, 107,.25);
+	border-color: rgb(120, 214, 75)
+}
+.imagecheck-input:focus~.imagecheck-figure {
+	border-color: rgb(120, 214, 75);
+	box-shadow: 0 0 0 2px rgb(236, 41, 107,.25)
+}
+.imagecheck-figure:before {
+	background: rgb(120, 214, 75) url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3E%3Cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3E%3C/svg%3E") no-repeat center center/50% 50%;
+	color: #fff
+}
+.colorinput-input:focus~.colorinput-color {
+	border-color: rgb(120, 214, 75);
+	box-shadow: 0 0 0 2px rgb(236, 41, 107,.25)
+}
+.ui-datepicker .ui-datepicker-title {
+	color: rgb(120, 214, 75)
+}
+#back-to-top {
+	background: rgb(120, 214, 75)
+}
+#back-to-top:hover {
+	background: #fff;
+	color: rgb(120, 214, 75);
+	border: 2px solid rgb(120, 214, 75)
+}
+#chat-message {
+	background: linear-gradient(-225deg, rrgb(5, 28, 44) 0, rgb(5, 28, 44) 48%, rgb(5, 28, 44) 100%)
+}
+.tabs-menu ul li .active {
+	background: rgb(120, 214, 75)
+}
+.tabs-menu1 ul li .active {
+	border: 1px solid rgb(120, 214, 75);
+	color: rgb(120, 214, 75)
+}
+.wideget-user-tab .tabs-menu1 ul li .active {
+	border-bottom: 2px solid rgb(120, 214, 75)!important
+}
+.rating-stars .rating-stars-container .rating-star.is--active .fa-heart,
+.rating-stars .rating-stars-container .rating-star.is--hover .fa-heart {
+	color: rgb(120, 214, 75)
+}
+.message-feed:not(.right) .mf-content {
+	background: rgb(120, 214, 75);
+	color: #fff
+}
+.message-feed:not(.right) .mf-content:before {
+	border-right-color: rgb(120, 214, 75)
+}
+.msb-reply button {
+	background: rgb(120, 214, 75)
+}
+.wizard-card .moving-tab {
+	background-color: rgb(120, 214, 75)!important
+}
+.wizard-card .choice.active .icon,
+.wizard-card .choice:hover .icon {
+	border-color: rgb(120, 214, 75)!important;
+	color: rgb(120, 214, 75)!important
+}
+.cal1 .clndr .clndr-table .header-days {
+	background: rgb(120, 214, 75)
+}
+.cal1 .clndr .clndr-table tr .day.my-today.event,
+.cal1 .clndr .clndr-table tr .day.today.event {
+	background: rgb(120, 214, 75)
+}
+.cal1 .clndr .clndr-table tr .day.my-today:hover,
+.cal1 .clndr .clndr-table tr .day.today:hover {
+	background: rgb(120, 214, 75);
+	color: #fff
+}
+.cal1 .clndr .clndr-controls .clndr-control-button .clndr-previous-button {
+	color: rgb(120, 214, 75);
+	background: #e6f2fe
+}
+.cal1 .clndr .clndr-controls .clndr-control-button .clndr-next-button {
+	color: rgb(120, 214, 75);
+	background: #e6f2fe
+}
+.cal1 .clndr .clndr-controls .clndr-control-button .clndr-next-button:hover {
+	background: rgb(120, 214, 75)
+}
+.cal1 .clndr .clndr-controls .clndr-control-button .clndr-previous-button:hover {
+	background: rgb(120, 214, 75)
+}
+.fc button {
+	background: rgb(120, 214, 75)
+}
+.fc-event,
+.fc-event-dot {
+	background-color: rgb(120, 214, 75);
+	color: #f1f1f1!important
+}
+#sidebar .accordion-toggle i {
+	background: linear-gradient(120deg, #0f75ff 60%, rgb(120, 214, 75) 100%)
+}
+#sidebar ul li.active>a {
+	color: rgb(120, 214, 75)
+}
+#sidebar ul li.active>a:hover {
+	color: rgb(120, 214, 75)
+}
+#sidebar li a[aria-expanded=true].active:before {
+	background: linear-gradient(120deg, #0f75ff 60%, rgb(120, 214, 75) 100%)
+}
+#sidebar ul li a:hover {
+	color: rgb(120, 214, 75)
+}
+#sidebar .collapse li a:hover {
+	color: rgb(120, 214, 75)
+}
+.sweet-alert button {
+	background-color: rgb(120, 214, 75)!important
+}
+.timeline__item:after {
+	border: 6px solid rgb(120, 214, 75)
+}
+.label-primary.arrowed:before {
+	border-right-color: rgb(120, 214, 75)
+}
+.widgetdate p {
+	border-bottom: 2px solid rgb(120, 214, 75)
+}
+.widgetbox p {
+	border-bottom: 2px solid rgb(120, 214, 75)
+}
+.datebox p {
+	border-bottom: 2px solid rgb(120, 214, 75)
+}
+.arrow-ribbon.bg-primary:before {
+	border-left: 15px solid rgb(120, 214, 75)
+}
+.arrow-ribbon2:before {
+	border-left: 24px solid rgb(120, 214, 75)
+}
+.badge-offer.bg-primary:after {
+	border-top: 12px solid rgb(120, 214, 75)
+}
+.badge-offer1.bg-primary:after {
+	border-top: 12px solid rgb(120, 214, 75)
+}
+.social-icons li:hover {
+	background: rgb(120, 214, 75);
+	color: #fff
+}
+.social li a:hover {
+	color: rgb(120, 214, 75)
+}
+.footer-main a:hover {
+	color: rgb(120, 214, 75)
+}
+.footer-links a:hover {
+	color: rgb(120, 214, 75)
+}
+.product-tags li a:hover {
+	background: rgb(120, 214, 75);
+	border-color: rgb(120, 214, 75)
+}
+.info .counter-icon {
+	border: 1px solid #fff
+}
+.info .counter-icon i {
+	color: #fff
+}
+.counter-icon {
+	border: 1px solid rgb(120, 214, 75)
+}
+.counter-icon i {
+	color: rgb(120, 214, 75)
+}
+.header-links li a.active {
+	background: rgb(120, 214, 75);
+	color: #fff
+}
+.header-links li a:hover {
+	background: rgb(120, 214, 75);
+	color: #fff
+}
+.card-pay .tabs-menu li a.active {
+	background: rgb(120, 214, 75)
+}
+.item1-tabs-menu ul li .active {
+	background: rgb(120, 214, 75)
+}
+.items-blog-tab-heading .items-blog-tab-menu li .active {
+	background: rgb(120, 214, 75);
+	color: #fff
+}
+.item2-gl-nav .item2-gl-menu li .active {
+	color: rgb(120, 214, 75)
+}
+.item-all-cat .item-all-card:hover .item-all-text h5 {
+	color: rgb(120, 214, 75)!important
+}
+.item-all-cat .category-type .item-all-card img {
+	background: linear-gradient(120deg, #3ba2ff 0, #6963ff 100%)
+}
+item-all-cat .item-all-card {
+	position: relative;
+	padding: 1.5rem 1.5rem;
+	border-radius: 4px;
+	margin-bottom: 10px;
+	color: #fff
+}
+.item-all-cat .category-type .item-all-card img {
+	width: 7rem;
+	height: 7rem;
+	border-radius: 50%;
+	padding: 2.3rem 0
+}
+.item-all-cat .row .item-all-card {
+	margin-bottom: 1.5rem
+}
+.item-all-cat .item-all-card a {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1
+}
+.iteam-all-icon i {
+	font-size: 1.5rem
+}
+.item-all-card img.imag-service {
+	width: 40%
+}
+.carousel-indicators li.active {
+	color: #fff;
+	background: rgb(120, 214, 75)
+}
+.item-cards7-ic.realestate-list li a:hover {
+	color: rgb(120, 214, 75)
+}
+.item1-links a:hover {
+	color: rgb(120, 214, 75)
+}
+.item1-links a.active {
+	background: rgba(241, 238, 247, .6);
+	color: rgb(120, 214, 75);
+	border-right: 2px solid rgb(120, 214, 75)
+}
+.settings-tab .tabs-menu li a.active {
+	background: rgb(120, 214, 75)
+}
+.ads-tabs .tabs-menus ul li .active {
+	background: rgb(120, 214, 75);
+	color: #fff
+}
+.showmore-button-inner {
+	border: 1px solid rgb(120, 214, 75);
+	color: rgb(120, 214, 75)
+}
+.owl-nav button {
+	color: rgb(120, 214, 75)!important
+}
+.owl-carousel:hover .owl-nav button {
+	color: rgb(120, 214, 75)!important
+}
+.owl-nav>div i {
+	color: rgb(120, 214, 75)
+}
+.tabs-menu ul.eductaional-tabs li .active {
+	background: rgb(120, 214, 75)
+}
+.register-right .nav-tabs .nav-link:hover {
+	background: rgb(120, 214, 75);
+	color: #fff
+}
+.gradient-icon {
+	background: linear-gradient(120deg, #3ba2ff 0, rgb(120, 214, 75) 100%)
+}
+.axgmap-img {
+	border: 3px solid rgb(120, 214, 75)
+}
+.horizontalMenu>.horizontalMenu-list>li>.horizontal-megamenu .menu_form input[type=submit] {
+	background-color: rgb(120, 214, 75);
+	color: #fff
+}
+.horizontalMenu>.horizontalMenu-list>li>.horizontal-megamenu .menu_form input[type=button] {
+	background-color: rgb(120, 214, 75);
+	color: #fff
+}
+.horizontalMenu>.horizontalMenu-list>li>a.active {
+	background-color: rgba(255, 255, 255, .2);
+	color: #fff
+}
+.horizontalMenu>.horizontalMenu-list>li:hover>a {
+	background-color: rgb(120, 214, 75);
+	color: #fff!important
+}
+.horizontalMenu>.horizontalMenu-list>li:hover>a .fa {
+	background-color: rgb(120, 214, 75);
+	color: #fff!important
+}
+.horizontalMenu>.horizontalMenu-list>li>ul.sub-menu>li:hover>a {
+	background-color: rgb(120, 214, 75);
+	color: #fff
+}
+.horizontalMenu>.horizontalMenu-list>li>ul.sub-menu>li>ul.sub-menu>li:hover>a {
+	background-color: rgb(120, 214, 75);
+	color: #fff
+}
+.horizontalMenu>.horizontalMenu-list>li>ul.sub-menu>li>ul.sub-menu>li>ul.sub-menu>li:hover a {
+	background-color: rgb(120, 214, 75);
+	color: #fff
+}
+code {
+	color: rgb(120, 214, 75)
+}
+#gdpr-cookie-message h4 {
+	color: rgb(120, 214, 75)
+}
+#gdpr-cookie-message h5 {
+	color: rgb(120, 214, 75)
+}
+#gdpr-cookie-message a {
+	color: rgb(120, 214, 75);
+	border-bottom: 1px solid rgb(120, 214, 75)
+}
+#gdpr-cookie-message a:hover {
+	border-bottom: 1px solid rgb(120, 214, 75);
+	transition: all .3s ease-in;
+	color: rgb(120, 214, 75)
+}
+button#gdpr-cookie-advanced {
+	color: #fff;
+	background-color: rgb(120, 214, 75)!important
+}
+.ui-widget-header {
+	background: rgb(120, 214, 75)
+}
+.ui-state-default,
+.ui-widget-content .ui-state-default,
+.ui-widget-header .ui-state-default {
+	background: rgb(120, 214, 75)
+}
+.side-menu li a.active:before {
+	background: linear-gradient(120deg, rgb(120, 214, 75) 60%, #2ddcd3 100%);
+	box-shadow: 0 0 14px 0 rgb(120, 214, 75)
+}
+.app-sidebar .side-menu__item.active {
+	color: rgb(120, 214, 75)!important
+}
+.app-sidebar .side-menu__item.active:hover {
+	color: rgb(120, 214, 75)!important
+}
+.app-sidebar .side-menu li.active>a {
+	color: rgb(120, 214, 75)
+}
+.app-sidebar .side-menu li a.active {
+	color: rgb(120, 214, 75)
+}
+.app-sidebar .slide-menu li.active>a {
+	color: rgb(120, 214, 75)
+}
+.app-sidebar .side-menu li ul li a:hover {
+	color: rgb(120, 214, 75)
+}
+.app-sidebar .side-menu li a:hover {
+	color: rgb(120, 214, 75)
+}
+.app-sidebar .side-menu li.active>a {
+	color: rgb(120, 214, 75)
+}
+.app-sidebar .side-menu li a.active {
+	color: rgb(120, 214, 75)
+}
+.app-sidebar .slide-menu li.active>a {
+	color: rgb(120, 214, 75)
+}
+.app-sidebar .side-menu li a:hover {
+	color: rgb(120, 214, 75)
+}
+.side-menu li a.active:before {
+	background: linear-gradient(120deg, rgb(120, 214, 75) 60%, #2ddcd3 100%);
+	box-shadow: 0 0 14px 0 rgb(120, 214, 75)
+}
+.navtab-wizard.nav-tabs .nav-link.active,
+.navtab-wizard.nav-tabs .nav-link:hover {
+	color: #fff;
+	background: rgb(120, 214, 75)
+}
+.form-inline .nav-search .btn {
+	border: 2px solid rgb(120, 214, 75)
+}
+.wrapper>h1 span {
+	border-bottom: 2px solid rgb(120, 214, 75);
+	color: rgb(120, 214, 75)
+}
+.tab_wrapper>ul li.active {
+	border-color: rgb(120, 214, 75);
+	background: rgb(120, 214, 75);
+	color: #fff
+}
+.tab_wrapper .controller span {
+	background: rgb(120, 214, 75)
+}
+.tab_wrapper .content_wrapper .accordian_header.active {
+	color: rgb(120, 214, 75)
+}
+.tab_wrapper .content_wrapper .accordian_header.active:after {
+	background: rgb(120, 214, 75)
+}
+.tab_wrapper .content_wrapper .accordian_header.active .arrow {
+	border-top: 3px solid rgb(120, 214, 75);
+	border-left: 3px solid rgb(120, 214, 75)
+}
+.tab_wrapper.left_side>ul li.active:after {
+	background: rgb(120, 214, 75)
+}
+.tab_wrapper.right_side>ul li.active:after {
+	background: rgb(120, 214, 75)
+}
+.addui-slider .addui-slider-track .addui-slider-range {
+	background: rgb(120, 214, 75)
+}
+.addui-slider .addui-slider-track .addui-slider-handle:after {
+	background: rgb(120, 214, 75)
+}
+.accordionjs .acc_section.acc_active>.acc_head {
+	background: rgb(120, 214, 75)
+}
+.perfect-datetimepicker tbody td.selected {
+	border: 1px solid rgb(120, 214, 75);
+	background-color: rgb(120, 214, 75)
+}
+div.conv-form-wrapper div.options div.option {
+	border: 1px solid rgb(120, 214, 75);
+	color: rgb(120, 214, 75)
+}
+div.conv-form-wrapper div#messages div.message.from {
+	background: rgb(120, 214, 75)
+}
+div.conv-form-wrapper div.options div.option.selected {
+	background: rgb(120, 214, 75);
+	color: #fff
+}
+form.convFormDynamic button.submit {
+	border: 1px solid rgb(120, 214, 75);
+	background: rgb(120, 214, 75)
+}
+form.convFormDynamic button.submit:hover {
+	background: rgb(120, 214, 75);
+	color: #fff
+}
+.exzoom .exzoom_nav .exzoom_nav_inner span.current {
+	border: 1px solid rgb(120, 214, 75)
+}
+.exzoom .exzoom_btn a {
+	color: rgb(120, 214, 75)
+}
+.prev:hover {
+	transform: translate(-5px, 0);
+	color: rgb(120, 214, 75)!important
+}
+.next:hover {
+	transform: translate(5px, 0);
+	color: rgb(120, 214, 75)!important
+}
+.g_f-s .prev:hover i {
+	transform: translate(-5px, 0);
+	color: rgb(120, 214, 75)
+}
+.g_f-s .next:hover i {
+	transform: translate(5px, 0);
+	color: rgb(120, 214, 75)
+}
+.g_f-s .close-button>:hover {
+	color: rgb(120, 214, 75)
+}
+.horizontalMenu>.horizontalMenu-list>li>.horizontal-megamenu .link-list li a:hover {
+	color: rgb(120, 214, 75)
+}
+.register {
+	background: linear-gradient(120deg, #4f4ac7 0, rgb(120, 214, 75) 100%)
+}
+.btnRegister {
+	background: rgb(120, 214, 75)
+}
+.register .nav-tabs .nav-link.active {
+	color: rgb(120, 214, 75);
+	border: 1px solid rgb(120, 214, 75)
+}
+.pretty input:checked~.state.p-primary label:after,
+.pretty.p-toggle .state.p-primary label:after {
+	background-color: rgb(120, 214, 75)!important
+}
+.pretty input:checked~.state.p-primary-o label:before,
+.pretty.p-toggle .state.p-primary-o label:before {
+	border-color: rgb(120, 214, 75)
+}
+.pretty input:checked~.state.p-primary-o .icon1,
+.pretty input:checked~.state.p-primary-o .svg,
+.pretty input:checked~.state.p-primary-o svg,
+.pretty.p-toggle .state.p-primary-o .icon1,
+.pretty.p-toggle .state.p-primary-o .svg,
+.pretty.p-toggle .state.p-primary-o svg {
+	color: rgb(120, 214, 75);
+	stroke: rgb(120, 214, 75)
+}
+.pretty.p-default:not(.p-fill) input:checked~.state.p-primary-o label:after {
+	background-color: rgb(120, 214, 75)!important
+}
+.pretty.p-switch input:checked~.state.p-primary:before {
+	border-color: rgb(120, 214, 75)
+}
+.pretty.p-switch.p-fill input:checked~.state.p-primary:before {
+	background-color: rgb(120, 214, 75)!important
+}
+.owl-carousel button.owl-dot {
+	background: rgb(105, 99, 255, .3)!important
+}
+.owl-carousel button.owl-dot.active {
+	background: rgb(5, 28, 44)!important
+}
+.bg-background:before {
+	background: linear-gradient(-225deg, rgb(5, 28, 44) 0, rgb(5, 28, 44) 48%, rgb(5, 28, 44) 100%)
+}
+.bg-background2:before {
+	background: linear-gradient(-225deg, rgb(5, 28, 44) 0, rgb(5, 28, 44) 48%, rgb(5, 28, 44) 100%)
+}
+.bg-background-color:before {
+	background: linear-gradient(-225deg, rgb(5, 28, 44) 0, rgb(5, 28, 44) 48%, rgb(5, 28, 44) 100%)
+}
+.bg-background3:before {
+	background: linear-gradient(-225deg, rgb(5, 28, 44) 0, rgb(5, 28, 44) 48%, rgb(5, 28, 44) 100%)
+}
+.bg-background-5:before {
+	background: linear-gradient(-225deg, rgb(5, 28, 44) 0, rgb(5, 28, 44) 48%, rgb(5, 28, 44) 100%)
+}
+.bg-background-6:before {
+	background: linear-gradient(-225deg, rgb(5, 28, 44) 0, rgb(5, 28, 44) 48%, rgb(5, 28, 44) 100%)
+}
+.slider-header .item:before {
+	background: linear-gradient(-225deg, rgb(5, 28, 44) 0, rgb(5, 28, 44) 48%, rgb(5, 28, 44) 100%)
+}
+.select2-container--default.select2-container--focus .select2-selection--multiple {
+	box-shadow: 0 0 0 2px rgb(236, 41, 107,.25)
+}
+.custom-control-input:focus~.custom-control-label::before {
+	box-shadow: 0 0 0 1px #f9faff, 0 0 0 2px rgb(236, 41, 107,.25)
+}
+.custom-file-input:focus~.custom-file-label {
+	box-shadow: 0 0 0 2px rgb(236, 41, 107,.25)
+}
+.custom-range::-webkit-slider-thumb:focus {
+	outline: 0;
+	box-shadow: 0 0 0 1px #f9faff, 0 0 0 2px rgb(236, 41, 107,.25)
+}
+.custom-range::-moz-range-thumb:focus {
+	outline: 0;
+	box-shadow: 0 0 0 1px #f9faff, 0 0 0 2px rgb(236, 41, 107,.25)
+}
+.custom-range::-ms-thumb:focus {
+	outline: 0;
+	box-shadow: 0 0 0 1px #f9faff, 0 0 0 2px rgb(236, 41, 107,.25)
+}
+.error-img .form-control:focus {
+	outline: 0;
+	box-shadow: 0 0 0 2px rgb(236, 41, 107,.25)
+}
+.selectize-input.focus {
+	border-color: #467fcf;
+	box-shadow: 0 0 0 2px rgb(236, 41, 107,.25)
+}
+.item-card:hover .item-card-desc:before {
+	background: linear-gradient(-225deg, rrgb(5, 28, 44) 0, rgb(5, 28, 44) 48%, rgb(5, 28, 44) 100%)
+}
+.item-card7-imgs:hover a {
+	background: tranparant
+}
+.item-card2-img:hover a {
+	background: tranparant
+}
+.app-sidebar .side-menu__item.active {
+	background: linear-gradient(-225deg, rgb(5, 28, 44) 0, rgb(5, 28, 44) 48%, rgb(5, 28, 44) 100%)!important;
+	color: #fff!important
+}
+.app-sidebar .side-menu__item.active:hover {
+	background: linear-gradient(-225deg, rgb(5, 28, 44) 0, rgb(5, 28, 44) 48%, rgb(5, 28, 44) 100%)!important;
+	color: #fff!important
+}
+.app-sidebar:before {
+	background: linear-gradient(-225deg, rgb(5, 28, 44) 0, rgb(5, 28, 44) 48%, rgb(5, 28, 44) 100%)!important
+}
+.app-sidebar-footer {
+	background: linear-gradient(-225deg, rgb(5, 28, 44) 0, rgb(5, 28, 44) 48%, rgb(5, 28, 44) 100%)
+}
+.masthead .masthead-bg {
+	background: linear-gradient(-225deg, rgb(5, 28, 44)	 0, rgb(5, 28, 44) 48%, rgb(5, 28, 44) 100%)!important
+}
+@media (max-width: 992px) {
+	.search-show .nav-search {
+		background: linear-gradient(-225deg, rgb(5, 28, 44) 0, #7918f2 48%, #ac32e4 100%)
+	}
+}
+@media (max-width: 992px) {
+	.nav-item.with-sub .sub-item {
+		border-top: 2px solid rgb(120, 214, 75)
+	}
+}
+@media (max-width: 480px) {
+	.zoom-container .arrow-ribbon2:before {
+		border-top: 17px solid transparent;
+		border-left: 17px solid rgb(120, 214, 75);
+		border-bottom: 17px solid transparent
+	}
+}
+.bg-linkedin {
+	background: #0077b5
+}
+.bg-facebook {
+	background: #3c5a99
+}
